@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "viewshareui": "^2.8.11",
+    "viewshare": "^2.8.18",
     "vue": "^2.5.2"
   },
   "devDependencies": {
